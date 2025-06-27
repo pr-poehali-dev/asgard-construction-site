@@ -58,7 +58,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <Icon name="Mail" className="h-5 w-5 mr-3" />
-                <span>info@asgard-sk.ru</span>
+                <span>S.K.ASGARD@YANDEX.RU</span>
               </div>
             </div>
           </div>
