@@ -18,7 +18,7 @@ const CTA = () => {
           </div>
           <div className="flex items-center">
             <Icon name="Mail" className="h-6 w-6 mr-3" />
-            <span className="text-lg">info@asgard-sk.ru</span>
+            <span className="text-lg">S.K.ASGARD@YANDEX.RU</span>
           </div>
         </div>
 
