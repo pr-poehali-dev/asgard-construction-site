@@ -14,7 +14,7 @@ const CTA = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
           <div className="flex items-center">
             <Icon name="Phone" className="h-6 w-6 mr-3" />
-            <span className="text-lg">+7 (XXX) XXX-XX-XX</span>
+            <span className="text-lg">+7 (908) 222 97 90</span>
           </div>
           <div className="flex items-center">
             <Icon name="Mail" className="h-6 w-6 mr-3" />
