@@ -15,7 +15,7 @@ const Advantages = () => {
     {
       icon: "Users",
       title: "Опытная команда",
-      description: "Сертифицированные специалисты",
+      description: "Квалифицированные специалисты",
     },
     {
       icon: "FileText",
