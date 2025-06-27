@@ -70,7 +70,7 @@ const Footer = () => {
                 <Icon name="Clock" className="h-5 w-5 mr-3" />
                 <div>
                   <p>Пн-Пт: 9:00 - 18:00</p>
-                  <p>Сб-Вс: 10:00 - 16:00</p>
+                  <p>Сб-Вс: Выходной</p>
                 </div>
               </div>
             </div>
