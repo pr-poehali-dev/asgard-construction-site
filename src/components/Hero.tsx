@@ -38,8 +38,8 @@ const Hero = () => {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=600&h=400&fit=crop"
-              alt="Строительство"
+              src="https://cdn.poehali.dev/files/03a71f42-8d70-4b8e-b80b-462d578facce.jpg"
+              alt="Строительство каркасного дома с командой рабочих"
               className="rounded-lg shadow-2xl"
             />
             <div className="absolute -bottom-6 -left-6 bg-white text-gray-800 p-4 rounded-lg shadow-lg">
